@@ -71,6 +71,16 @@ A Flutter-based task management application with offline-first architecture, bui
    flutter run
 ```
 
+#### OR
+
+**Download and install the release apk from the [release](https://github.com/CodeSadhu/azodha_todo_app/releases/tag/v1.0) section of this repository**
+
+#### OR
+
+**Download and install the release apk inside the [package](https://github.com/CodeSadhu/azodha_todo_app/tree/main/package) folder**
+
+---
+
 ### Login Credentials
 ```
 Username: admin
