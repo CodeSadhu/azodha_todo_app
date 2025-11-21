@@ -174,7 +174,7 @@ The mock API has some limitations that made real-world sync challenging:
 
 ## ⏱️ Development Context
 
-This was a 2-day sprint assignment for a Senior Flutter Developer role at Azodha. As a freelancer currently juggling 2 other projects, the timeline was quite tight but manageable. 
+This was a 2-day sprint assignment for a Senior Flutter Developer role at Azodha. As a freelancer currently juggling 2 other projects, the timeline was quite tight but manageable. I ideally planned to add Serverpod as a proper backend so the app could throw structured errors and behave closer to a real production environment, but due to time constraints and my other commitments, I couldn’t integrate it.
 
 **Day 1 (Nov 19):** Architecture setup, authentication, basic CRUD  
 **Day 2 & 3 (Nov 20-21):** Offline sync, retry logic, polish, debugging
